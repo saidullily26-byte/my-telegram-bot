@@ -14,7 +14,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8841228707:AAEQsaaiJs8cHrgDImGYcN0vTXwpoheK0BQ"
+BOT_TOKEN = "8745564551:AAFNTIqhyasIao0MzbY06AJ9iz2G5yB6YO0"
 API_KEY = "MURAD_0BCC7F3DCA0E0A51278FBDA4"
 BASE_URL = "https://fastxotps.com"           # আপনার প্যানেল ডোমেন (trailing slash ছাড়া)
 USER_DATA_FILE = "users.json"
@@ -29,8 +29,7 @@ DATA_RANGE_FILE = "datarange.json"
 # আপনার নতুন কনফিগ
 ADMINS = [6263959292]
 OTP_GROUP_ID = -1002826437332
-CHANNEL_LINK = "https://t.me/onlineearninzone99"
-WELCOME_MESSAGE = "✨ PRO OTP GENARET বটে আপনাকে স্বাগতম! ✨\n\n🚀 বট ব্যবহার করার আগে নিচের চ্যানেলে অবশ্যই Join করুন:\n\n👉 https://t.me/onlineearninzone99"
+CHANNEL_LINK = "https://t.me/onlineearninzone9MESSAGEOME_MESSAGE = "✨ PRO OTP GENARET বটে আপনাকে স্বাগতম! ✨\n\n🚀 বট ব্যবহার করার আগে নিচের চ্যানেলে অবশ্যই Join করুন:\n\n👉 https://t.me/onlineearninzone99"
 
 # ==================== OTP RATE CONFIGURATION ====================
 OTP_RATE = 0.0010
